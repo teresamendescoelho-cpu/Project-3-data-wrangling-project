@@ -27,6 +27,8 @@ The topic chosen for this project is:
 
 
 
+
+
 The project follows a structured workflow across five days, from data collection to presentation.
 Our project includes:
 Data from at least two different sources (APIs, web scraping, or datasets).
