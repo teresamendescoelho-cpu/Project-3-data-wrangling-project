@@ -77,6 +77,8 @@ Source: PLACEHOLDER
 
 Description: PLACEHOLDER
 &nbsp;
+&nbsp;
+&nbsp;
 
 ❓ Research Questions
 &nbsp;
@@ -93,6 +95,8 @@ PLACEHOLDER — Research Question 1
 &nbsp;
 
 PLACEHOLDER — Research Question 2  
+&nbsp;
+&nbsp;
 &nbsp;
 
 🛠️ Methodology
@@ -167,11 +171,17 @@ Preparing final cleaned dataset in /data/cleaned/
 &nbsp;
 EDA included:
 &nbsp;
+&nbsp;
+&nbsp;
 
 Summary statistics
 &nbsp;
+&nbsp;
+&nbsp;
 
 Distribution plots
+&nbsp;
+&nbsp;
 &nbsp;
 
 Correlation checks
@@ -184,6 +194,8 @@ Trend identification
 &nbsp;
 
 Visualizations using Matplotlib/Seaborn
+&nbsp;
+&nbsp;
 &nbsp;
 
 📊 Main Findings & Insights
@@ -202,8 +214,10 @@ The combined dataset confirmed/refuted the hypothesis that…
 
 Unexpected insight: …
 &nbsp;
+&nbsp;
 
 🔮 Further Questions & Next Steps
+&nbsp;
 &nbsp;
 
 Additional data sources could improve…
@@ -216,6 +230,8 @@ Future work could include ML models, clustering, or time‑series forecasting
 &nbsp;
 
 More advanced visualizations could help communicate insights
+&nbsp;
+&nbsp;
 &nbsp;
 
 📌 Project Structure
@@ -238,6 +254,8 @@ data-wrangling-project/
 │   └── utils.py        # Helper functions
 │
 └── README.md
+&nbsp;
+&nbsp;
 &nbsp;
 
 🧼 Coding Best Practices Followed
@@ -264,54 +282,14 @@ Regular refactoring
 Respectful and legal data collection
 &nbsp;
 
-🎤 Presentation
-&nbsp;
-
-Slides URL: PLACEHOLDER  
-&nbsp;
-
-The presentation includes:
-&nbsp;
-
-Topic overview
-&nbsp;
-
-Data sources
-&nbsp;
-
-Cleaning challenges
-&nbsp;
-
-EDA insights
-&nbsp;
-
-Conclusions
-&nbsp;
-
-Next steps
-&nbsp;
-
-🔗 Useful Links
-&nbsp;
-
-Kanban Board (Trello): PLACEHOLDER
-&nbsp;
-
-API Documentation: PLACEHOLDER
-&nbsp;
-
-Scraped Website: PLACEHOLDER
-&nbsp;
-
-Dataset Sources: PLACEHOLDER
-&nbsp;
 
 👩‍💻 Author
 &nbsp;
 Teresa Mendes Coelho  
 &nbsp;
-
-
+Shilpa Krish 
+&nbsp;
+Vildan Pirpiroglu
 
 
 
