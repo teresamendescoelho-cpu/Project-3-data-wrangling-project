@@ -1,4 +1,417 @@
 # Project-3-data-wrangling-project
+
+Project-3-data-wrangling-project
+&nbsp;
+Project 3 — Data Wrangling & Retrieval
+&nbsp;
+&nbsp;
+
+🧭 Introduction
+&nbsp;
+This project is part of the Data Wrangling and Retrieval module, where the goal is to collect, clean, structure, and analyze data from multiple sources.
+&nbsp;
+The project demonstrates the ability to:
+&nbsp;
+
+Use Python effectively (data types, structures, functions, flow control, error handling)
+&nbsp;
+
+Perform data wrangling, cleaning, and manipulation
+&nbsp;
+
+Collect data using APIs and Web Scraping  
+&nbsp;
+
+Combine datasets from different sources
+&nbsp;
+
+Conduct basic Exploratory Data Analysis (EDA)  
+&nbsp;
+
+Present insights clearly and visually
+&nbsp;
+
+&nbsp;
+The topic chosen for this project is:
+👉 PLACEHOLDER: Insert your topic here  
+&nbsp;
+&nbsp;
+
+📁 Data Sources
+&nbsp;
+This project uses two independent data sources, as required:
+&nbsp;
+
+1. API Source
+&nbsp;
+
+Name: PLACEHOLDER
+
+Endpoint(s) used: PLACEHOLDER
+
+Description: PLACEHOLDER
+
+Terms of Use: Confirmed and respected
+
+Data collected: PLACEHOLDER
+&nbsp;
+
+2. Web Scraping Source
+&nbsp;
+
+Website: PLACEHOLDER
+
+Scraping method: requests + BeautifulSoup
+
+Structure inspected: HTML tags, classes, pagination
+
+Robots.txt: Checked and respected
+
+Data collected: PLACEHOLDER
+&nbsp;
+
+3. Optional Dataset
+&nbsp;
+
+Source: PLACEHOLDER
+
+Description: PLACEHOLDER
+&nbsp;
+
+❓ Research Questions
+&nbsp;
+The project was guided by the following hypotheses and questions:
+&nbsp;
+
+PLACEHOLDER — Hypothesis 1  
+&nbsp;
+
+PLACEHOLDER — Hypothesis 2  
+&nbsp;
+
+PLACEHOLDER — Research Question 1  
+&nbsp;
+
+PLACEHOLDER — Research Question 2  
+&nbsp;
+
+🛠️ Methodology
+&nbsp;
+
+1. Data Collection
+&nbsp;
+
+API documentation reviewed (endpoints, rate limits, parameters)
+&nbsp;
+
+Functions created to fetch data and handle errors
+&nbsp;
+
+Web scraping script developed respecting website rules
+&nbsp;
+
+Data saved locally in /data/raw/  
+&nbsp;
+
+2. Data Wrangling & Cleaning
+&nbsp;
+At least five cleaning techniques were applied:
+&nbsp;
+
+Handling missing values (dropna, fillna)
+&nbsp;
+
+Removing duplicates
+&nbsp;
+
+Standardizing text (lowercase, trimming, replacing symbols)
+&nbsp;
+
+Converting data types (dates, numerics, categories)
+&nbsp;
+
+Creating new columns (flags, extracted fields)
+&nbsp;
+
+Formatting inconsistent values
+&nbsp;
+
+Grouping and restructuring data
+&nbsp;
+
+Merging datasets from different sources
+&nbsp;
+
+A main cleaning function was created to organize the workflow.
+&nbsp;
+
+3. Data Structuring
+&nbsp;
+
+Combining API + scraped data
+&nbsp;
+
+Creating pivot tables
+&nbsp;
+
+Aggregating values
+&nbsp;
+
+Filtering relevant subsets
+&nbsp;
+
+Preparing final cleaned dataset in /data/cleaned/  
+&nbsp;
+
+4. Exploratory Data Analysis (EDA)
+&nbsp;
+EDA included:
+&nbsp;
+
+Summary statistics
+&nbsp;
+
+Distribution plots
+&nbsp;
+
+Correlation checks
+&nbsp;
+
+Grouped comparisons
+&nbsp;
+
+Trend identification
+&nbsp;
+
+Visualizations using Matplotlib/Seaborn
+&nbsp;
+
+📊 Main Findings & Insights
+&nbsp;
+PLACEHOLDER — Replace with your actual insights, for example:
+&nbsp;
+
+The API data revealed that…
+&nbsp;
+
+The scraped data showed a pattern in…
+&nbsp;
+
+The combined dataset confirmed/refuted the hypothesis that…
+&nbsp;
+
+Unexpected insight: …
+&nbsp;
+
+🔮 Further Questions & Next Steps
+&nbsp;
+
+Additional data sources could improve…
+&nbsp;
+
+A deeper analysis could explore…
+&nbsp;
+
+Future work could include ML models, clustering, or time‑series forecasting
+&nbsp;
+
+More advanced visualizations could help communicate insights
+&nbsp;
+
+📌 Project Structure
+&nbsp;
+
+Code
+data-wrangling-project/
+│
+├── data/
+│   ├── raw/            # API + scraped data
+│   └── cleaned/        # Final cleaned dataset
+│
+├── notebooks/
+│   └── main.ipynb      # Main notebook with full workflow
+│
+├── src/
+│   ├── api.py          # API functions
+│   ├── scraping.py     # Web scraping functions
+│   ├── cleaning.py     # Cleaning functions
+│   └── utils.py        # Helper functions
+│
+└── README.md
+&nbsp;
+
+🧼 Coding Best Practices Followed
+&nbsp;
+
+Modularized code with reusable functions
+&nbsp;
+
+Clear naming conventions
+&nbsp;
+
+Removed unused imports and variables
+&nbsp;
+
+Added meaningful comments and documentation
+&nbsp;
+
+Logical organization of notebook sections
+&nbsp;
+
+Regular refactoring
+&nbsp;
+
+Respectful and legal data collection
+&nbsp;
+
+🎤 Presentation
+&nbsp;
+
+Slides URL: PLACEHOLDER  
+&nbsp;
+
+The presentation includes:
+&nbsp;
+
+Topic overview
+&nbsp;
+
+Data sources
+&nbsp;
+
+Cleaning challenges
+&nbsp;
+
+EDA insights
+&nbsp;
+
+Conclusions
+&nbsp;
+
+Next steps
+&nbsp;
+
+🔗 Useful Links
+&nbsp;
+
+Kanban Board (Trello): PLACEHOLDER
+&nbsp;
+
+API Documentation: PLACEHOLDER
+&nbsp;
+
+Scraped Website: PLACEHOLDER
+&nbsp;
+
+Dataset Sources: PLACEHOLDER
+&nbsp;
+
+👩‍💻 Author
+&nbsp;
+Teresa Mendes Coelho  
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Project 3 data-wrangling-and-Retrival
 
 
