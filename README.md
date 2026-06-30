@@ -69,31 +69,18 @@ Data collected: PLACEHOLDER
 3. Optional Dataset
 &nbsp;
 
-Source: PLACEHOLDER
 
-Description: PLACEHOLDER
-&nbsp;
-&nbsp;
-&nbsp;
 
 ❓ Research Questions
 &nbsp;
 The project was guided by the following hypotheses and questions:
 &nbsp;
-
-PLACEHOLDER — Hypothesis 1  
+— Hypothesis 1  .................  
+&nbsp;
+ Hypothesis 2  ...............
+&nbsp;&nbsp;
 &nbsp;
 
-PLACEHOLDER — Hypothesis 2  
-&nbsp;
-
-PLACEHOLDER — Research Question 1  
-&nbsp;
-
-PLACEHOLDER — Research Question 2  
-&nbsp;
-&nbsp;
-&nbsp;
 
 🛠️ Methodology
 &nbsp;
@@ -196,19 +183,19 @@ Visualizations using Matplotlib/Seaborn
 
 📊 Main Findings & Insights
 &nbsp;
-PLACEHOLDER — Replace with your actual insights, for example:
+Replace with our actual insights, for example:..............
 &nbsp;
 
-The API data revealed that…
+The API data revealed that…..........
 &nbsp;
 
-The scraped data showed a pattern in…
+The scraped data showed a pattern in…..................
 &nbsp;
 
-The combined dataset confirmed/refuted the hypothesis that…
+The combined dataset confirmed/refuted the hypothesis that…..........................
 &nbsp;
 
-Unexpected insight: …
+Unexpected insight: ….....................
 &nbsp;
 &nbsp;
 
