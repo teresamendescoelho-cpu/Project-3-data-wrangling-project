@@ -1,6 +1,8 @@
 # Project-3-data-wrangling-project
 Project 3 data-wrangling-and-Retrival
 
+
+
 🧭 Introduction
 This project is part of the Data Wrangling and Retrieval module, where the goal is to collect, clean, structure, and analyze data from multiple sources.
 The project demonstrates the ability to:
@@ -20,6 +22,7 @@ The topic chosen for this project is:
 👉 PLACEHOLDER: Insert your topic here (.........................................)
 
 ..............to complete/ improve..........
+
 
 
 
