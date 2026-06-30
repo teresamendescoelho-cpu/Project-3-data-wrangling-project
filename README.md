@@ -235,14 +235,14 @@ Prepared according to the recommended 7–10 minute format.
 
 
 
-🔗 Useful Links
-Kanban Board (Trello): PLACEHOLDER
 
-API Documentation: PLACEHOLDER
 
-Scraped Website: PLACEHOLDER
 
-Dataset Sources: PLACEHOLDER
+
+📝 Authors
+Teresa Mendes Coelho
+Shilpa Krish 
+Vildan Pirpiroglu
 
 
 
@@ -331,25 +331,6 @@ Google one drive docs
 Excel
 ..............to complete.........
 
-🚀 How to Run
-Clone the repository
-..............to complete/ improve.......... 
-
-Code
-git clone https://github.com/teresamendescoelho-cpu/Project-3-data-wrangling-project git
-Enter the folder
-
-Code
-cd Projec3 ............................
-Install dependencies
-
-Code
-pip install -r requirements.txt
-Run the analysis
-
-Code:
-python src/analysis.py
-
 
 
 📊 Results
@@ -373,10 +354,3 @@ Shilpa Krish
 Vildan Pirpiroglu
 
 
-
-Se quiseres, posso:
-
-🔧 Criar também o ficheiro requirements.txt  
-📁 Criar a estrutura de pastas
-📝 Adaptar o README ao conteúdo exato do teu projeto
-📸 Adicionar imagens ou gráficos quando os tiveres
