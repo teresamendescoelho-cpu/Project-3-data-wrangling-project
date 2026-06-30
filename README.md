@@ -1,5 +1,42 @@
 # Project-3-data-wrangling-project
 Project 3 data-wrangling-and-Retrival
+
+🧭 Introduction
+This project is part of the Data Wrangling and Retrieval module, where the goal is to collect, clean, structure, and analyze data from multiple sources.
+The project demonstrates the ability to:
+
+Use Python effectively (data types, structures, functions, flow control, error handling)
+
+Perform data wrangling, cleaning, and manipulation
+
+Collect data using APIs and Web Scraping
+
+Combine datasets from different sources
+
+Conduct basic Exploratory Data Analysis (EDA)
+
+Present insights clearly and visually
+The topic chosen for this project is:
+👉 PLACEHOLDER: Insert your topic here (.........................................)
+
+..............to complete/ improve..........
+
+
+
+The project follows a structured workflow across five days, from data collection to presentation.
+Our project includes:
+Data from at least two different sources (APIs, web scraping, or datasets).
+A README file with:
+Title of the project
+Introduction
+Description of the data and data sources
+Research questions and conclusions
+Explanation of your methodology (cleaning, analysis, visualization)
+Main findings and insights
+Further questions and next steps
+Links to data sources and your Kanban board (e.g., Trello)
+
+
 ..............to complete/ improve..........
 
 
