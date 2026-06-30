@@ -45,6 +45,7 @@ Links to data sources and your Kanban board (e.g., Trello)
 
 The project follows a structured workflow across five days, from data collection to presentation.
 
+
 📁 Data Sources
 This project uses two independent data sources, as required:
 
@@ -77,6 +78,9 @@ Source: PLACEHOLDER
 
 Description: PLACEHOLDER
 
+
+
+
 ❓ Research Questions
 The project was guided by the following hypotheses and questions:
 
@@ -89,6 +93,198 @@ PLACEHOLDER — Research Question 1
 PLACEHOLDER — Research Question 2
 
 These questions shaped the cleaning, structuring, and analysis process.
+
+
+
+
+
+2. Data Wrangling & Cleaning
+At least five cleaning techniques were applied:
+
+Handling missing values (dropna, fillna)
+
+Removing duplicates
+
+Standardizing text (lowercase, trimming, replacing symbols)
+
+Converting data types (dates, numerics, categories)
+
+Creating new columns (flags, extracted fields)
+
+Formatting inconsistent values
+
+Grouping and restructuring data
+
+Merging datasets from different sources
+
+A main cleaning function was created to organize the workflow, calling smaller cleaning functions in sequence.
+
+
+
+
+3. Data Structuring
+Combining API + scraped data
+
+Creating pivot tables
+
+Aggregating values
+
+Filtering relevant subsets
+
+Preparing final cleaned dataset in /data/cleaned/
+
+
+
+
+4. Exploratory Data Analysis (EDA)
+EDA included:
+
+Summary statistics
+
+Distribution plots
+
+Correlation checks
+
+Grouped comparisons
+
+Trend identification
+
+Visualizations using Matplotlib/Seaborn
+
+
+
+
+📊 Main Findings & Insights
+PLACEHOLDER — Replace with your actual insights, for example:
+
+The API data revealed that…
+
+The scraped data showed a pattern in…
+
+The combined dataset confirmed/refuted the hypothesis that…
+
+Unexpected insight: …
+
+Summarize the most important conclusions clearly and concisely.
+
+
+
+🔮 Further Questions & Next Steps
+Additional data sources could improve…
+
+A deeper analysis could explore…
+
+Future work could include machine learning models, clustering, or time‑series forecasting
+
+More advanced visualizations could help communicate insights
+
+
+
+
+
+📌 Project Structure
+Code
+data-wrangling-project/
+│
+├── data/
+│   ├── raw/            # API + scraped data
+│   └── cleaned/        # Final cleaned dataset
+│
+├── notebooks/
+│   └── main.ipynb      # Main notebook with full workflow
+│
+├── src/
+│   ├── api.py          # API functions
+│   ├── scraping.py     # Web scraping functions
+│   ├── cleaning.py     # Cleaning functions
+│   └── utils.py        # Helper functions
+│
+└── README.md
+🧼 Coding Best Practices Followed
+Modularized code with reusable functions
+
+Clear naming conventions
+
+Removed unused imports and variables
+
+Added meaningful comments and documentation
+
+Logical organization of notebook sections
+
+Regular refactoring
+
+Respectful and legal data collection
+
+🎤 Presentation
+Slides URL: PLACEHOLDER  
+The presentation includes:
+
+Topic overview
+
+Data sources
+
+Cleaning challenges
+
+EDA insights
+
+Conclusions
+
+Next steps
+
+Prepared according to the recommended 7–10 minute format.
+
+
+
+🔗 Useful Links
+Kanban Board (Trello): PLACEHOLDER
+
+API Documentation: PLACEHOLDER
+
+Scraped Website: PLACEHOLDER
+
+Dataset Sources: PLACEHOLDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 📌 Overview
 This project analyzes a dataset of ..............to complete/ improve.......... to identify trends related to ..............to complete/ improve...........
