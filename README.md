@@ -3,7 +3,8 @@ Project 3 data-wrangling-and-Retrival
 
 
 
-🧭 Introduction
+🧭 Introduction:
+
 This project is part of the Data Wrangling and Retrieval module, where the goal is to collect, clean, structure, and analyze data from multiple sources.
 The project demonstrates the ability to:
 
@@ -38,10 +39,54 @@ Explanation of your methodology (cleaning, analysis, visualization)
 Main findings and insights
 Further questions and next steps
 Links to data sources and your Kanban board (e.g., Trello)
-
-
 ..............to complete/ improve..........
 
+The project follows a structured workflow across five days, from data collection to presentation.
+
+📁 Data Sources
+This project uses two independent data sources, as required:
+
+1. API Source
+Name: PLACEHOLDER
+
+Endpoint(s) used: PLACEHOLDER
+
+Description: Brief explanation of what the API provides
+
+Terms of Use: Confirmed and respected
+
+Data collected: PLACEHOLDER
+
+2. Web Scraping Source
+Website: PLACEHOLDER
+
+Scraping method: requests + BeautifulSoup
+
+Structure inspected: HTML tags, classes, pagination, etc.
+
+Robots.txt: Checked and respected
+
+Data collected: PLACEHOLDER
+
+3. (Optional) Additional Dataset
+If you used a CSV/Excel dataset:
+
+Source: PLACEHOLDER
+
+Description: PLACEHOLDER
+
+❓ Research Questions
+The project was guided by the following hypotheses and questions:
+
+PLACEHOLDER — Hypothesis 1
+
+PLACEHOLDER — Hypothesis 2
+
+PLACEHOLDER — Research Question 1
+
+PLACEHOLDER — Research Question 2
+
+These questions shaped the cleaning, structuring, and analysis process.
 
 📌 Overview
 This project analyzes a dataset of ..............to complete/ improve.......... to identify trends related to ..............to complete/ improve...........
