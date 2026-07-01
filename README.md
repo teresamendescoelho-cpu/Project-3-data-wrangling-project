@@ -50,3 +50,26 @@ Project-3-data-wrangling-project/
 ├── README.md
 ├── Project 3_Consumer & Ecommerce jupiter notebook
 ├── Sources data information sites
+
+---
+
+## Suggested future structure:
+
+```text
+Project-3-data-wrangling-project/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+│
+├── data/
+│   ├── raw/
+│   └── clean/
+│
+├── notebooks/
+│   └── data_wrangling.ipynb
+│
+├── src/
+│   └── cleaning_functions.py
+│
+└── images/
