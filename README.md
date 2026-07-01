@@ -5,7 +5,7 @@
 
 This project was developed as part of a Data Analytics bootcamp and focuses on data wrangling, cleaning, and preparation for analysis.
 
-The main theme of the project is **consumer behaviour and ecommerce**, with a marketing perspective. The goal is to collect, clean, organize, and prepare data that can later be used to understand consumer habits, product trends, online shopping behaviour, and possible business insights.
+The main theme of the project is Marketing and Consummer behaviour and we focous on the prespective of **consumer behaviour and ecommerce**, with a marketing perspective. The goal is to collect, clean, organize, and prepare data that can later be used to understand consumer habits, product trends, online shopping behaviour, and possible business insights.
 
 This repository contains the notebook, source information, and documentation used during the data wrangling process.
 
@@ -181,9 +181,12 @@ Add Python scripts with reusable cleaning functions
 Expand the analysis with more ecommerce data
 Author
 
-Project developed by:
-
+Project developed by: our companie TSV consumer insights:
+Project managers:
 Teresa Mendes Coelho
+Shilpa Krish
+Vildan Pipiroglu
+Shilpa
 
 GitHub: teresamendescoelho-cpu
 
