@@ -207,6 +207,5 @@ The repository currently includes the main Jupyter Notebook, README file, `.giti
 
 GitHub: teresamendescoelho-cpu
 
-Project Status
 
 Project in progress.
