@@ -1,25 +1,134 @@
-Kanban Board: Trello: https://trello.com/b/bYK9a1Qm
+# Sources - Data Information Sites
+
+## Project 3 - Data Wrangling and Retrieval  
+### Business, Marketing & Consumer Behaviour
+
+This file documents the main sources, tools, datasets, and references used in this project.
+
+The project focuses on **marketing, consumer behaviour, ecommerce-style data, campaign performance, and data wrangling**.
+
+---
+
+## 1. Project Management Source
+
+### Kanban Board - Trello
+
+Main Trello board:
+
+https://trello.com/b/bYK9a1Qm
+
+Trello invitation link:
 
 https://trello.com/invite/b/6a438cd7549c9acc74f2b78a/ATTI7667f7ba99cf80dac2d174a5d76eb8dfE23C2683/📊project-3-data-wrangling-and-retrieval-business-marketing-consumer-behaviour
 
-Google drive Doc https://docs.google.com/document/d/1XRr_J2JrNwjLnt1jC17zt9cPAHZ6mYDLbCVW3xGMATo/edit?tab=t.0
+### Purpose
 
+Trello was used as the project management tool to organize the workflow and tasks.
 
-"https://jsonplaceholder.typicode.com/users" 
+The Kanban board helped the team manage:
 
+- Project planning
+- Task distribution
+- Data source tracking
+- Work progress
+- Project documentation
+- Team collaboration
 
+---
 
+## 2. Project Documentation
 
+### Google Drive Document
+
+Google Drive project document:
+
+https://docs.google.com/document/d/1XRr_J2JrNwjLnt1jC17zt9cPAHZ6mYDLbCVW3xGMATo/edit?tab=t.0
+
+### Purpose
+
+The Google Drive document was used to centralize project information, notes, decisions, and documentation.
+
+It helped organize:
+
+- Project ideas
+- Research notes
+- Dataset information
+- Source links
+- Team planning
+- Business context
+- Data wrangling decisions
+
+---
+
+## 3. API Source
+
+### JSONPlaceholder API
+
+API endpoint used:
+
+https://jsonplaceholder.typicode.com/users
+
+### Purpose
+
+JSONPlaceholder was used as a test API source to practice API data retrieval.
+
+The `/users` endpoint provides sample user data in JSON format, including information such as:
+
+- User ID
+- Name
+- Username
+- Email
+- Address
+- Phone number
+- Website
+- Company information
+
+### Relevance to the Project
+
+This API was useful to practice:
+
+- API requests
+- JSON data extraction
+- Data normalization
+- Transforming nested JSON into tabular format
+- Working with user-related information
+
+Although the API is a fake test API, it was useful for practicing data retrieval and data wrangling techniques.
+
+---
+
+## 4. Kaggle Dataset Source
+
+### Financial Forecasting Data
+
+Dataset source:
 
 https://www.kaggle.com/datasets/ziya07/financial-forecasting-data
 
- 
+### Purpose
 
+This Kaggle dataset was considered as a structured data source for analysis and data wrangling practice.
 
+The dataset is relevant because financial and forecasting data can support business decision-making and help understand patterns related to performance, trends, and predictions.
 
+### Relevance to the Project
 
-API Documentation: PLACEHOLDER
+This source can support analysis related to:
 
-Scraped Website: PLACEHOLDER
+- Business performance
+- Forecasting
+- Trend analysis
+- Data cleaning
+- Data transformation
+- Structured dataset preparation
 
-Dataset Sources: PLACEHOLDER Users/vildanpirpiroglu/Ironhack/03_Datasets/marketing_campaign_performance_10000.csv
+---
+
+## 5. Local Dataset Source
+
+### Marketing Campaign Performance Dataset
+
+Local file path:
+
+```text
+Users/vildanpirpiroglu/Ironhack/03_Datasets/marketing_campaign_performance_10000.csv
