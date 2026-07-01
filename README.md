@@ -199,6 +199,12 @@ Shilpa Krish
 Vildan Pipiroglu
 Shilpa
 
+## Project Status
+
+Project in progress.
+
+The repository currently includes the main Jupyter Notebook, README file, `.gitignore`, and a file with data source information. Future improvements will include organizing the project into folders, adding a clean dataset, and expanding the analysis with visualizations.
+
 GitHub: teresamendescoelho-cpu
 
 Project Status
