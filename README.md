@@ -73,3 +73,120 @@ Project-3-data-wrangling-project/
 │   └── cleaning_functions.py
 │
 └── images/
+
+---
+
+## Suggested future structure:
+
+```text
+/
+Files Description
+Project 3_Consumer & Ecommerce jupiter notebook
+
+This notebook contains the main work of the project, including:
+
+Data collection
+Data cleaning
+Data exploration
+Data transformation
+Preparation of the dataset for analysis
+Sources data information sites
+
+This file contains the sources and websites used to collect or research data for the project.
+
+.gitignore
+
+This file is used to tell Git which files or folders should not be uploaded to the repository.
+
+README.md
+
+This file explains the purpose, structure, and content of the project.
+
+Tools and Technologies
+
+The main tools used in this project are:
+
+Python
+Jupyter Notebook
+Pandas
+NumPy
+BeautifulSoup
+Requests
+Git
+GitHub
+Data Wrangling Process
+
+The project follows the main steps of a data wrangling workflow:
+
+1. Data Collection
+
+Data is collected or researched from online ecommerce and consumer-related sources.
+
+2. Data Understanding
+
+The available information is reviewed to understand:
+
+Columns
+Data types
+Missing values
+Duplicates
+Inconsistent values
+Useful variables for analysis
+3. Data Cleaning
+
+The dataset is cleaned by applying steps such as:
+
+Removing duplicates
+Handling missing values
+Renaming columns
+Standardizing text values
+Cleaning prices or numeric values
+Converting data types when needed
+4. Data Transformation
+
+The data is transformed into a cleaner and more structured format so it can be used for analysis.
+
+5. Data Preparation
+
+The final cleaned dataset is prepared for future analysis, insights, and visualizations.
+
+Possible Analysis Questions
+
+This project can support future analysis questions such as:
+
+Which product categories appear most frequently?
+What price ranges are common in ecommerce products?
+Are there patterns in product descriptions?
+What information is most relevant for consumers?
+How can ecommerce data support marketing decisions?
+Challenges
+
+Some of the main challenges in this project include:
+
+Finding reliable data sources
+Cleaning inconsistent online data
+Handling missing or incomplete information
+Structuring raw data into a clean format
+Organizing the project repository clearly
+Future Improvements
+
+Possible future improvements include:
+
+Add a clean dataset folder
+Add visualizations
+Create charts to show consumer trends
+Add a requirements.txt file
+Organize the notebook inside a notebooks/ folder
+Add Python scripts with reusable cleaning functions
+Expand the analysis with more ecommerce data
+Author
+
+Project developed by:
+
+Teresa Mendes Coelho
+
+GitHub: teresamendescoelho-cpu
+
+Project Status
+
+Project in progress.
