@@ -74,6 +74,17 @@ Project-3-data-wrangling-project/
 │
 └── images/
 
+## Future Improvements
+
+Possible future improvements include:
+
+- Add a clean dataset folder
+- Add visualizations
+- Create charts to show consumer trends
+- Add a `requirements.txt` file
+- Organize the notebook inside a `notebooks/` folder
+- Add Python scripts with reusable cleaning functions
+- Expand the analysis with more ecommerce data
 ---
 
 ## Suggested future structure:
